@@ -6,7 +6,7 @@ body{
 p{
   color: white;
   font-size: 30px;
-  font-family: cursive;
+  font-family: monospace;
 }
 #menu{
     list-style: none;
