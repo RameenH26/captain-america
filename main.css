@@ -3,6 +3,10 @@ body{
   background-image: linear-gradient(red, goldenrod, orange, yellow);
   color: black;
 }
+#name{
+    color: red;
+    font-family: fantasy;
+}
 #mid{
     width: 900;
     height: 300;
