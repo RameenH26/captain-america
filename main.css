@@ -1,10 +1,10 @@
 body{
   text-align:center;
-  background-image: linear-gradient(red, goldenrod, orange, yellow);
-  color: black;
+  background-image: linear-gradient(black, blue, red);
+  color: white;
 }
 #name{
-    color: red;
+    color: black;
     font-family: fantasy;
 }
 #mid{
